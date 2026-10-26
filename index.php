@@ -17,6 +17,15 @@
     <a href="exercicio7.php">Exercicio 7</a> <br>
     <a href="exercicio8.php">Exercicio 8</a> <br>
     <a href="exercicio9.php">Exercicio 9</a> <br>
+    <a href="exercicio10.php">Exercicio 10</a> <br>
+    <a href="exercicio11.php">Exercicio 11</a> <br>
+    <a href="exercicio12.php">Exercicio 12</a> <br>
+    <a href="exercicio13.php">Exercicio 13</a> <br>
+    <a href="exercicio14.php">Exercicio 14</a> <br>
+    <a href="exercicio15.php">Exercicio 15</a> <br>
+    <a href="exercicio16.php">Exercicio 16</a> <br>
+    <a href="exercicio17.php">Exercicio 17</a> <br>
+
     
     
 </body>
